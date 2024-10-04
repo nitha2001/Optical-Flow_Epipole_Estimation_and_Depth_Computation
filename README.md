@@ -1,4 +1,4 @@
-# Optical-Flow_Epipole_Estimation_and_Depth_Computation
+# OpticalFlow_Epipole_Estimation_and_Depth_Computation
 This repository contains Python implementations of various tasks involving spatiotemporal gradient computation, optical flow estimation, epipole calculation, and depth map generation based on an image sequence. These tasks are essential in understanding motion estimation and scene reconstruction in computer vision. The project is structured to run in individual Python scripts with outputs visualized through plots and images.
 
 
