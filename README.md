@@ -12,3 +12,10 @@ This repository contains Python implementations of various tasks involving spati
 - `Epipole Calculation (epipole.py)`: Solves for the epipole position using least squares minimization, based on the computed optical flow. This helps in identifying the point in the image where all motion converges.
 
 - `Depth Estimation (depth.py)`: Computes depth values at every pixel using the pixel flow, epipole, and camera intrinsic parameters. The results are visualized as depth maps with varying thresholds.
+
+## Results
+
+Below are the plots of optical vector field including the epipole and depth map
+![image](https://github.com/user-attachments/assets/46be8346-bdea-43eb-bb53-556a26b91dc8)
+![image](https://github.com/user-attachments/assets/c29bc1b6-72a8-473c-8311-139a04ffe46d)
+![image](https://github.com/user-attachments/assets/f60cbcab-4a5d-4816-91fd-25b5106a945d)
